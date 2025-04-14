@@ -7,4 +7,4 @@ public class Multiply
 
         System.out.println("The product is"+(a*b)); 
     } 
-}
+} 
