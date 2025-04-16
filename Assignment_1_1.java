@@ -1,4 +1,4 @@
-// 1.Program to divide two numbers
+// 1.Program to divide two numbers.
 
 import java.util.*;
 
