@@ -1,4 +1,4 @@
-//2.Program to print 5 times "Jay Shree Ram" on screen.
+//2.Program to print 5 times "Jay Shree Ram" on screen .
 
 import java.util.*;
 
