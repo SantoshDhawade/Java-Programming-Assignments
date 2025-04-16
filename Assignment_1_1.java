@@ -21,7 +21,7 @@ class Assignment_1_1
 {
 	public static void main(String args[])
 	{
-		int iValue1 = 15 , iValue2 = 25;
+		int iValue1 = 15 , iValue2 = 5;
 		int iRet = 0;
 		
 		Div obj = new Div();
