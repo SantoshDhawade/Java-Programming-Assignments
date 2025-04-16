@@ -1,4 +1,4 @@
-//5. Accept one number from user and print that number of * on Screen.
+//5. Accept one number from user and print that number of * on Screen
 
 
 import java.util.*;
