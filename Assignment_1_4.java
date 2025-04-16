@@ -1,4 +1,4 @@
-//4. Accept one number from user and check whether it is divisible by 5 or not.
+//4. Accept one number from user and check whether it is divisible by 5 or not
 
 import java.util.*;
 
