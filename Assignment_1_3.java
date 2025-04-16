@@ -1,4 +1,4 @@
-// 3. Program to print 5 to 1 numbers on screen.
+// 3. Program to print 5 to 1 numbers on screen
 
 import java.util.*;
 
