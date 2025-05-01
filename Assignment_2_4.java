@@ -31,6 +31,7 @@ class Demo{
     }
 }
 
+
 class Assignment_2_4
 {
     public static void main(String args[])
