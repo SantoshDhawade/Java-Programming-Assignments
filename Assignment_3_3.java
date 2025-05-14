@@ -1,8 +1,8 @@
-/*2. write a program which accept number from user and
+/*3. write a program which accept number from user and
 print even factors of that number.
 
-Input  : 24
-Output : 2 4 6 8 12 */
+Input  : 36
+Output : 2 4 6 8 12 18 */
 
 import java.util.*;
 
@@ -21,7 +21,7 @@ class Demo{
     }
 }
 
-class Assignment_3_2
+class Assignment_3_3
 {
     public static void main(String args[])
     {
